@@ -15,8 +15,8 @@ public class calculator implements ActionListener {
     int operator = 0;
 
     calculator() {
-        f = new JFrame("Calculator Application By 22EARAD032");
-        title = new JLabel("Calculator By Devendra Gautam ");
+        f = new JFrame("Calculator Application By devendra");
+        title = new JLabel("Calculator By Devendra sir ");
         tf = new JTextField("");
         b1 = new JButton("1");
         b2 = new JButton("2");
