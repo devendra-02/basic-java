@@ -11,7 +11,7 @@ public class factorial {
 		
 		int fact = 1 ;
 		
-		System.out.println("enter a no for factorial : ") ;
+		System.out.println("give no for factorial: ") ;
 		int n = scanner.nextInt();
 		
 		for(int i=1;i<=n;i++) {
