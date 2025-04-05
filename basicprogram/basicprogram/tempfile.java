@@ -4,7 +4,7 @@ public class tempfile {
 
 	public static void main(String[] args) {
 		for(int i=0;i<10;i++) {
-			System.out.println("devendra gautam");
+			System.out.println("dev");
 		}
 	}
 
